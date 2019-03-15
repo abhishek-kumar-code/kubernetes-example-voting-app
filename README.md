@@ -1,10 +1,10 @@
 # kubernetes-example-voting-app
 
-# Step 1 Login to Google Cloud Platform. Go to Kubernetes Engine and create a cluster. Once the cluster is running, avtivate the console.
+ Step 1 Login to Google Cloud Platform. Go to Kubernetes Engine and create a cluster. Once the cluster is running, avtivate the console.
 
-# Step 2 Clone the desired repository from GitHub.
+ Step 2 Clone the desired repository from GitHub.
 
-# Step 3 Creating Pods and Services
+ Step 3 Creating Pods and Services
 
 kubectl create -f voting-app-pod.yml
 
