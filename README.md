@@ -32,5 +32,5 @@
 
 `kubectl get services`
 
-![alt text](https://github.com/abhishek-kumar-code/kubernetes-example-voting-app/blob/master/Lin_Kubernetes%20cluster%20on%20GCP_pods%20and%20services.JPG "Logo Title Text 1")
+![alt text](https://github.com/abhishek-kumar-code/kubernetes-example-voting-app/blob/master/Lin_Kubernetes%20cluster%20on%20GCP_pods%20and%20services.JPG "Pods and Services on GCP")
 
