@@ -8,29 +8,29 @@
 
 `kubectl create -f voting-app-pod.yml`
 
-kubeclt create -f voting-app-service.yml
+`kubeclt create -f voting-app-service.yml`
 
-kubectl create -f redis-pod.yml
+`kubectl create -f redis-pod.yml`
 
-kubeclt create -f redis-service.yml
+`kubeclt create -f redis-service.yml`
 
-kubectl create -f postgres-pod.yml
+`kubectl create -f postgres-pod.yml`
 
-kubeclt create -f postgres-service.yml
+`kubeclt create -f postgres-service.yml`
 
-kubectl create -f worker-app-pod.yml
+`kubectl create -f worker-app-pod.yml`
 
-kubectl create -f result-app-pod.yml
+`kubectl create -f result-app-pod.yml`
 
-kubeclt create -f result-app-service.yml
+`kubeclt create -f result-app-service.yml`
 
 // To check all the Pods
 
-kubectl get pods
+`kubectl get pods`
 
 // To check all the Services
 
-kubectl get services
+`kubectl get services`
 
 ![alt text](http://url/to/img.png)
 
