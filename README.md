@@ -6,7 +6,7 @@
 
  Step 3 Creating Pods and Services
 
-'kubectl create -f voting-app-pod.yml'
+`kubectl create -f voting-app-pod.yml`
 
 kubeclt create -f voting-app-service.yml
 
